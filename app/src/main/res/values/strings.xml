@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">firebase1</string>
+    <string name="signup">Signup</string>
+    <string name="create_new_account">create new account</string>
+    <string name="type_your_name">type your Name</string>
+    <string name="enter_the_emailid">enter the emailid</string>
+    <string name="password">password</string>
+    <string name="signup1">signup</string>
+    <string name="already_havaing_an_account_click_here">already havaing an account? Click here</string>
+    <string name="already_having_an_account_click_here">already having an account? click here</string>
+    <string name="signin" />
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="dont_have_an_account_signup">dont have an account? signup</string>
+    <string name="login">login</string>
+    <string name="signup2">Signup</string>
+    <string name="register">register</string>
+</resources>
